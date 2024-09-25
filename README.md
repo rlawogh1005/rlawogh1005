@@ -1,19 +1,17 @@
-## Hello World!
+## Hi!
+#### 김재호
+#### qwertyjhk11@naver.com
 
-### I’m currently working on
+
+## Current Project
 #### 🔭 HIP(Hongik I Platform): 2024.07.02 ~ 
 #### 🔭 PICEL(Platform for Interpreting and Connecting Every Language): 2024.03.25 ~
 
-### I’m currently learning
-#### FrameWorks
-##### 🌱 NestJS
-##### 🌱 Angular
-
-#### Languages
+## Skills
+#### 🌱 NestJS
 ##### 🌱 TypeScript
 ##### 🌱 Python
 
-## zz
 <!--
 **rlawogh1005/rlawogh1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

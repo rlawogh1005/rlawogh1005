@@ -10,7 +10,9 @@
 ## Skills
 #### 🌱 NestJS
 ##### 🌱 TypeScript
+#### 🌱 FastAPI
 ##### 🌱 Python
+ 
 
 <!--
 **rlawogh1005/rlawogh1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

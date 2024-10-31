@@ -10,7 +10,7 @@
 ## Skills
 #### 🌱 NestJS
 ##### 🌱 TypeScript
-#### 🌱 FastAPI
+#### 🌱 FastAPI https://fastapi.tiangolo.com/
 ##### 🌱 Python
  
 

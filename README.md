@@ -8,12 +8,10 @@
 #### 🔭 PICEL(Platform for Interpreting and Connecting Every Language): 2024.03.25 ~
 
 ## Skills
-#### 🌱 NestJS
-##### 🌱 TypeScript
-#### 🌱 FastAPI
-##### 🌱 Python
- 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,python,nestjs,typescript)]()
+NestJS [![My Skills](https://skillicons.dev/icons?i=nestjs)]()
+TypeScript [![My Skills](https://skillicons.dev/icons?i=typescript)]()
+FastAPI [![My Skills](https://skillicons.dev/icons?i=fastapi)]()
+Python [![My Skills](https://skillicons.dev/icons?i=python)]()
 
 <!--
 **rlawogh1005/rlawogh1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@
 #### 🔭 PICEL(Platform for Interpreting and Connecting Every Language): 2024.03.25 ~
 
 ## Skills
-NestJS [![My Skills](https://skillicons.dev/icons?i=nestjs)]()
+[![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS
 TypeScript [![My Skills](https://skillicons.dev/icons?i=typescript)]()
 FastAPI [![My Skills](https://skillicons.dev/icons?i=fastapi)]()
 Python [![My Skills](https://skillicons.dev/icons?i=python)]()

@@ -9,10 +9,10 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS <br>
-[![My Skills](https://skillicons.dev/icons?i=angular)]() Angular
-[![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScrip
-[![My Skills](https://skillicons.dev/icons?i=fastapi)]() FastAPI
-[![My Skills](https://skillicons.dev/icons?i=python)]() Python
+[![My Skills](https://skillicons.dev/icons?i=angular)]() Angular <br>
+[![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScrip <br>
+[![My Skills](https://skillicons.dev/icons?i=fastapi)]() FastAPI <br>
+[![My Skills](https://skillicons.dev/icons?i=python)]() Python <br>
 
 <!--
 **rlawogh1005/rlawogh1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

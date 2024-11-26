@@ -10,7 +10,7 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS <br>
 [![My Skills](https://skillicons.dev/icons?i=angular)]() Angular <br>
-[![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScrip <br>
+[![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScript <br>
 [![My Skills](https://skillicons.dev/icons?i=fastapi)]() FastAPI <br>
 [![My Skills](https://skillicons.dev/icons?i=python)]() Python <br>
 

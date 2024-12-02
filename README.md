@@ -5,7 +5,7 @@
 
 ## Current Project
 #### 🔭 HIP(Hongik I Platform): 2024.07.02 ~ 
-#### 🔭 PICEL(Platform for Interpreting and Connecting Every Language): 2024.03.25 ~
+#### 🔭 PICEL(Platform for Interpreting and Connecting Every Language): 2024.03.25 ~ 2024.11.13
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS <br>

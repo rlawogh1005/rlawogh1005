@@ -4,8 +4,8 @@
 
 
 ## Current Project
-#### 🔭 HIP(Hongik I Platform): 2024.07.02 ~ 
-#### 🔭 PICEL(Platform for Interpreting and Connecting Every Language): 2024.03.25 ~ 2024.11.13
+#### 🔭 HIP (Hongik I Platform): 2024.07.02 ~ 2024.01 → Metaverse Learning Management System: 2024.01 ~  
+#### 🔭 PICEL (Platform for Interpreting and Connecting Every Language): 2024.03.25 ~ 2024.11.13  
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS <br>

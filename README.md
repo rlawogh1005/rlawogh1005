@@ -1,6 +1,8 @@
 ## Hi!
-#### 김재호
+#### 김재호 (Jaeho Kim)
 #### qwertyjhk11@naver.com
+#### rlawogh1005@gmail.com
+#### jaehokim1005@g.hongik.ac.kr
 
 
 ## Current Project

@@ -6,7 +6,7 @@
 
 
 ## Current Project
-#### 🔭 AgenticAI4SE: 205.06.30 ~
+#### 🔭 AgenticAI4SE: 2025.06.30 ~
 #### 🔭 SWV (Software Visualization): 2025.03.01 ~   
 #### 🔭 Metaverse Laerning Management System: 2025.01 ~   
 

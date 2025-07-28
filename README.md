@@ -11,8 +11,10 @@
 #### 🔭 Metaverse Laerning Management System: 2025.01 ~   
 
 ## Previous Project
+#### 🔭 DX Hackathon 3D Project: 2025.04.15 ~ 2025.08.02
 #### 🔭 PICEL (Platform for Interpreting and Connecting Every Language): 2024.03.25 ~ 2024.11.13  
 #### 🔭 HIP (Hongik I Platform): 2024.07.02 ~ 2025.01
+
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react)]() React <br>

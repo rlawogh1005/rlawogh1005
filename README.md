@@ -18,7 +18,7 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react)]() React <br>
-[![My Skills](https://skillicons.dev/icons?i=threejs)]() Three.JS <br>
+[![My Skills](https://skillicons.dev/icons?i=threejs)]() ThreeJS <br>
 [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS <br>
 [![My Skills](https://skillicons.dev/icons?i=angular)]() Angular <br>
 [![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScript <br>

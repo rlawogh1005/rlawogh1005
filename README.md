@@ -6,7 +6,7 @@
 
 
 ## Current Project
-#### 🔭 *SWV (Software Visualization)*: 2025.03.01 –   
+#### 🔭 **SWV (Software Visualization)**: 2025.03.01 –   
 #### 🔭 Metaverse Laerning Management System: 2025.01 –
 #### 🔭 Mnemosyne: 2026.02.09 –
 

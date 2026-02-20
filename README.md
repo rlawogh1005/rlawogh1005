@@ -1,4 +1,6 @@
-## Hi!
+### Blog
+https://velog.io/@jhk11/posts
+
 #### 김재호 (Jaeho Kim)
 #### qwertyjhk11@naver.com
 #### rlawogh1005@gmail.com
@@ -29,8 +31,6 @@
 #### 2025.02 – Present  M.S. Program, Software Engineering Laboratory, Department of Software and Communications Engineering, Hongik University
 
 
-## Blog
-https://velog.io/@jhk11/posts
 <!--
 **rlawogh1005/rlawogh1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

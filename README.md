@@ -20,8 +20,8 @@
 [![My Skills](https://skillicons.dev/icons?i=react)]() React [![My Skills](https://skillicons.dev/icons?i=threejs)]() ThreeJS [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS [![My Skills](https://skillicons.dev/icons?i=angular)]() Angular [![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScript<br>[![My Skills](https://skillicons.dev/icons?i=fastapi)]() FastAPI [![My Skills](https://skillicons.dev/icons?i=python)]() Python
 
 ## Experience
-2020.03 – 2025.02  B.S. in Software and Communications Engineering, Hongik University
-2025.02 – Present  M.S. Program, Software Engineering Laboratory, Department of Software and Communications Engineering, Hongik University
+#### 2020.03 – 2025.02  B.S. in Software and Communications Engineering, Hongik University
+#### 2025.02 – Present  M.S. Program, Software Engineering Laboratory, Department of Software and Communications Engineering, Hongik University
 
 ## Blog
 https://velog.io/@jhk11/posts

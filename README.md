@@ -6,18 +6,20 @@
 
 
 ## Current Project
-![Member](https://img.shields.io/badge/Role-Team_Member-34D058) -> ![Leader](https://img.shields.io/badge/Role-Team_Leader-34D058)
 #### 🔭 **SWV (Software Visualization)**: 2025.03.01 –
-
-
-![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
+![Member](https://img.shields.io/badge/Role-Team_Member-34D058) -> ![Leader](https://img.shields.io/badge/Role-Team_Leader-34D058)
 #### 🔭 Metaverse Laerning Management System: 2025.01 -
+![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
 
 ## Previous Project
 #### 🔭 Artificial Intelligence-based User Interactive Storytelling 3D Scene Authoring Technology Development (인공지능 기반 대화형 멀티모달인터렉티브 스토리텔링 3D장면 저작 기술 개발): 2025.03.01 - 2025.12.31
-#### 🔭 DX Hackathon 3D Project: 2025.04.15 – 2025.08.02 ![Research Assistant](https://img.shields.io/badge/Role-Research_Assistant-34D058)
-#### 🔭 HIP (Hongik I Platform): 2024.07.02 – 2025.01 ![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
-#### 🔭 PICEL (Platform for Interpreting and Connecting Every Language): 2024.03.25 – 2024.11.13 ![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
+![Research Assistant](https://img.shields.io/badge/Role-Research_Assistant-34D058)
+#### 🔭 DX Hackathon 3D Project: 2025.04.15 – 2025.08.02
+![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
+#### 🔭 HIP (Hongik I Platform): 2024.07.02 – 2025.01
+![Leader](https://img.shields.io/badge/Role-Team_Leader-34D058)
+#### 🔭 PICEL (Platform for Interpreting and Connecting Every Language): 2024.03.25 – 2024.11.13
+![Leader](https://img.shields.io/badge/Role-Team_Member-34D058)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react)]() React [![My Skills](https://skillicons.dev/icons?i=threejs)]() ThreeJS [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS [![My Skills](https://skillicons.dev/icons?i=angular)]() Angular [![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScript<br>[![My Skills](https://skillicons.dev/icons?i=fastapi)]() FastAPI [![My Skills](https://skillicons.dev/icons?i=python)]() Python

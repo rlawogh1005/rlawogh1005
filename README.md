@@ -31,8 +31,16 @@ https://velog.io/@jhk11/posts
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat) ![NLP](https://img.shields.io/badge/BERT_|_RoBERTa-4B8BBE?style=flat) ![Audio](https://img.shields.io/badge/Whisper_Finetuning-000000?style=flat) ![LLM](https://img.shields.io/badge/Dify_|_RAG-0088CC?style=flat) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-5C5CFF?style=flat)
 
 ## Experience
+#### 2025.02 – Present  M.S. Program, Software Engineering Laboratory, Hongik University
+#### 2026.03 – Present  Teaching Assistant, Hongik University (2026 1st Semester)
+#### 2025.09 – 2025.12  Teaching Assistant, Hongik University (2025 2nd Semester)
 #### 2020.03 – 2025.02  B.S. in Software and Communications Engineering, Hongik University
-#### 2025.02 – Present  M.S. Program, Software Engineering Laboratory, Department of Software and Communications Engineering, Hongik University
+
+## Publications & Activities
+- **[Oral Presentation]** 2025 KSII ICONI (The 17th International Conference on Internet)
+- **[Oral Presentation]** 2025 KSII APIC-IST (The 20th Asia Pacific International Conference on Information Science and Technology)
+- **[Poster Presentation]** 2025 Smart Media Spring Conference (2025 스마트미디어 춘계학술대회)
+- **[Attendee]** 2026 KCSE (Korea Conference on Software Engineering)
 
 
 <!--

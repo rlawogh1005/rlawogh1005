@@ -34,9 +34,13 @@ https://velog.io/@jhk11/posts
 #### 2025.02 – Present  M.S. Program, Software Engineering Laboratory, Hongik University
 #### 2026.03 – Present  Teaching Assistant, Hongik University (2026 1st Semester)
 #### 2025.09 – 2025.12  Teaching Assistant, Hongik University (2025 2nd Semester)
+#### 2025.03 - 2025.06  Teaching Assistant, Hongik University (2025 1st Semester)
 #### 2020.03 – 2025.02  B.S. in Software and Communications Engineering, Hongik University
 
 ## Publications & Activities
+### Journal
+- **[Best Practices on Applying RAG Based Chatbots in Learning Management System(LMS) for Software Developers]**, Smart Media Journal, Vol. 14, No. 7. (2025)
+### Conference
 - **[Oral Presentation]** 2025 KSII ICONI (The 17th International Conference on Internet)
 - **[Oral Presentation]** 2025 KSII APIC-IST (The 20th Asia Pacific International Conference on Information Science and Technology)
 - **[Poster Presentation]** 2025 Smart Media Spring Conference (2025 스마트미디어 춘계학술대회)

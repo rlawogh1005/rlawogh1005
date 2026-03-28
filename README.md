@@ -21,7 +21,14 @@ https://velog.io/@jhk11/posts
 ![Leader](https://img.shields.io/badge/Role-Team_Member-34D058)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react)]() React [![My Skills](https://skillicons.dev/icons?i=threejs)]() ThreeJS [![My Skills](https://skillicons.dev/icons?i=nestjs)]() NestJS [![My Skills](https://skillicons.dev/icons?i=angular)]() Angular [![My Skills](https://skillicons.dev/icons?i=typescript)]() TypeScript<br>[![My Skills](https://skillicons.dev/icons?i=fastapi)]() FastAPI [![My Skills](https://skillicons.dev/icons?i=python)]() Python
+**Frontend & 3D**
+[![My Skills](https://skillicons.dev/icons?i=react)]() [![My Skills](https://skillicons.dev/icons?i=threejs)]() [![My Skills](https://skillicons.dev/icons?i=angular)]() [![My Skills](https://skillicons.dev/icons?i=typescript)]()
+
+**Backend & Infra**
+[![My Skills](https://skillicons.dev/icons?i=nestjs)]() [![My Skills](https://skillicons.dev/icons?i=fastapi)]() [![My Skills](https://skillicons.dev/icons?i=python)]() [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+
+**AI & ML**
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat) ![NLP](https://img.shields.io/badge/BERT_|_RoBERTa-4B8BBE?style=flat) ![Audio](https://img.shields.io/badge/Whisper_Finetuning-000000?style=flat) ![LLM](https://img.shields.io/badge/Dify_|_RAG-0088CC?style=flat) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-5C5CFF?style=flat)
 
 ## Experience
 #### 2020.03 – 2025.02  B.S. in Software and Communications Engineering, Hongik University

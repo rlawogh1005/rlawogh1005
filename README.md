@@ -5,6 +5,8 @@
 https://velog.io/@jhk11/posts
 
 ## Current Project
+#### 🔭 **Encoder-Based AI Model Development for Code Smell Classification**: 2026.03.01 -
+![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
 #### 🔭 **SWV (Software Visualization)**: 2025.03.01 –
 ![Promotion](https://img.shields.io/badge/Role-Member_%E2%86%92_Leader-34D058)
 #### 🔭 Metaverse Laerning Management System: 2025.01 -

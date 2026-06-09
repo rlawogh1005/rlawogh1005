@@ -5,7 +5,9 @@
 https://velog.io/@jhk11/posts
 
 ## Current Project
-#### 🔭 **Encoder-Based AI Model Development for Code Smell Classification**: 2026.03.01 -
+#### 🔭 **CWE-driven Reinforcement Learning for Language Models**: 2026.03.01 -
+![Leader](https://img.shields.io/badge/Role-Team_Leader-34D058)
+#### 🔭 **Encoder based AI Model Development for Code Smell Classification**: 2026.03.01 -
 ![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
 #### 🔭 **SWV (Software Visualization)**: 2025.03.01 –
 ![Promotion](https://img.shields.io/badge/Role-Member_%E2%86%92_Leader-34D058)
@@ -13,6 +15,8 @@ https://velog.io/@jhk11/posts
 ![Member](https://img.shields.io/badge/Role-Team_Member-34D058)
 
 ## Previous Project
+#### 🔭 LLM-driven Energy-Efficient Code Refactoring: 2026.05.18 - 2026.06.05
+![Leader](https://img.shields.io/badge/Role-Team_Leader-34D058)
 #### 🔭 Artificial Intelligence-based User Interactive Storytelling 3D Scene Authoring Technology Development (인공지능 기반 대화형 멀티모달인터렉티브 스토리텔링 3D장면 저작 기술 개발): 2025.03.01 - 2025.12.31
 ![Research Assistant](https://img.shields.io/badge/Role-Research_Assistant-34D058)
 #### 🔭 DX Hackathon 3D Project: 2025.04.15 – 2025.08.02

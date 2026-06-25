@@ -1,11 +1,14 @@
 #### 김재호 (Jaeho Kim)
 #### rlawogh1005@gmail.com
 
+### Homepage
+https://jaeho-kim.com
+
 ### Blog
 https://velog.io/@jhk11/posts
 
 ## Current Project
-#### 🔭 **CWE-driven Reinforcement Learning for Language Models**: 2026.03.01 -
+#### 🔭 **CWE-based Reinforcement Learning for Language Models**: 2026.03.01 -
 ![Leader](https://img.shields.io/badge/Role-Research-34D058)
 #### 🔭 **Encoder based AI Model Development for Code Smell Classification**: 2026.03.01 -
 ![Member](https://img.shields.io/badge/Role-Research-34D058)

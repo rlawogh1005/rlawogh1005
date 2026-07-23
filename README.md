@@ -10,9 +10,9 @@ https://velog.io/@jhk11/posts
 ## Current Project
 #### 🔭 **CWE-based Reinforcement Learning for Language Models**: 2026.03.01 -
 ![Leader](https://img.shields.io/badge/Role-Research-34D058)
-#### 🔭 **Encoder based AI Model Development for Code Smell Classification**: 2026.03.01 -
+#### 🔭 **AI Agent for Code Smell Detection**: 2026.03.01 -
 ![Member](https://img.shields.io/badge/Role-Research-34D058)
-#### 🔭 **SWV (Software Visualization)**: 2025.03.01 –
+#### 🔭 **Software Visualization**: 2025.03.01 –
 ![Promotion](https://img.shields.io/badge/Role-Member_%E2%86%92_Leader-34D058)
 
 ## Previous Project
